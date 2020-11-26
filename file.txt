@@ -1,3 +1,1 @@
-story 1
-strory 2
-edit2
+voici un fichier de text qui nous permet de gérer une tonne de fonctionnalitées.
